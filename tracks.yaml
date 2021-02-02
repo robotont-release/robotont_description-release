@@ -16,7 +16,7 @@ tracks:
       :{release_inc} --os-name rhel
     devel_branch: melodic-devel
     last_release: melodic-devel
-    last_version: 0.0.7
+    last_version: 0.0.8
     name: robotont_description
     patches: null
     release_inc: '1'
