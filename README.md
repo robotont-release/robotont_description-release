@@ -1,3 +1,26 @@
+## robotont_description (noetic) - 0.0.8-1
+
+The packages in the `robotont_description` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic robotont_description --edit` on `Sat, 22 Oct 2022 22:07:08 -0000`
+
+The `robotont_description` package was released.
+
+Version of package(s) in repository `robotont_description`:
+
+- upstream repository: https://github.com/robotont/robotont_description.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## robotont_description (melodic) - 0.0.8-1
 
 The packages in the `robotont_description` repository were released into the `melodic` distro by running `/usr/bin/bloom-release robotont_description --rosdistro melodic` on `Tue, 02 Feb 2021 13:06:19 -0000`
